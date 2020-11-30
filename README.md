@@ -59,7 +59,6 @@ Sample Input 2 (input.txt)
  aaaaaaa
     aaa(aaaa
  *******
-(([(
  ```
 Sample Output 2 (output.txt)
 ```
@@ -75,7 +74,6 @@ YES
 YES
 NO 13
 YES
-NO 4
 ```
 
 ## Hints
